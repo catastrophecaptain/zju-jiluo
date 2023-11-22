@@ -1,0 +1,5 @@
+/lab*/*/*.*/**/*.*
+*.xpr
+__synthesis_is_complete__
+!lab*/**/*.bit
+*.docx
