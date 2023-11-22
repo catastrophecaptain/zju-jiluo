@@ -3,4 +3,5 @@
 __synthesis_is_complete__
 !lab*/**/*.bit
 !lab*/**/*.v
+!lab*/**/*.xdc
 *.docx
