@@ -5,3 +5,6 @@ __synthesis_is_complete__
 !lab*/**/*.v
 !lab*/**/*.xdc
 *.docx
+*.pptx
+glbl.v
+
