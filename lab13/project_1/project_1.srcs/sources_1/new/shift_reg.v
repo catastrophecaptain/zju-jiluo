@@ -18,6 +18,5 @@ module shift_reg (
     Q_reg[6] <= (S_L & p_in[6]) | (~S_L & Q_reg[7]);
     Q_reg[7] <= (S_L & p_in[7]) | (~S_L & s_in);
   end
-  
 endmodule
 

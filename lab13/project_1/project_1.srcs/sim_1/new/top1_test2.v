@@ -43,5 +43,7 @@ module top1_test2 ();
     SW=1'b1;
     #20;
     SW=1'b0;
+    #20;
+    $finish;
   end
 endmodule

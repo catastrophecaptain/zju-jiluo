@@ -7,4 +7,7 @@ __synthesis_is_complete__
 *.docx
 *.pptx
 glbl.v
-
+*.pptx
+*.ppt
+biglab/
+12/
